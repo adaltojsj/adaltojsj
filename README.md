@@ -5,7 +5,8 @@ Me chamo Adalto Junior, estou em treinamento para me tornar um Data Scientist :m
 ### Contato:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adaltojsjunior/)](https://www.linkedin.com/in/adaltojsjunior/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Email&logoColor=white&link=https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=adaltojsj@gmail.com)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=adaltojsj@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adaltojsjunior/)](https://www.linkedin.com/in/adaltojsjunior/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Email&logoColor=white&link=https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=adaltojsj@gmail.com)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=adaltojsj@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575999134300&text=Olá_vim_do_seu_GitHub%C3%A1!)](https://api.whatsapp.com/send?phone=5575999134300&text=Olá_vim_do_seu_GitHub%C3%A1!) 
+
 
 
 <!--
