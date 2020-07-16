@@ -1,4 +1,11 @@
-### Olá 👋
+# Olá, Bem vindo ao meu perfil ! 👋
+
+Me chamo Adalto Junior, estou em treinamento para me tornar um Data Scientist :man_technologist: 
+
+### Contato
+
+
+[![Linkedin Badge](https://img.shields.io/badge//-LinkedIn-blue:style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adaltojsjunior/)](https://www.linkedin.com/in/adaltojsjunior/)
 
 <!--
 **adaltojsj/adaltojsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
