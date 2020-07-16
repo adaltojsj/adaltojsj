@@ -5,7 +5,8 @@ Me chamo Adalto Junior, estou em treinamento para me tornar um Data Scientist :m
 ### Contato:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adaltojsjunior/)](https://www.linkedin.com/in/adaltojsjunior/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adaltojsjunior/)](https://www.linkedin.com/in/adaltojsjunior/) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Email&logoColor=white&link=adaltojsj@gmail.com)](adaltojsj@gmail.com)
+
 
 <!--
 **adaltojsj/adaltojsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
