@@ -16,6 +16,7 @@ Me chamo Adalto Junior, estou em treinamento para me tornar um Data Scientist :m
 
 ### Estou iniciando o meu portfólio ! 
 
+![GIF](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 <!--
 **adaltojsj/adaltojsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
