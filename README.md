@@ -1,11 +1,10 @@
 # Olá, Bem vindo ao meu perfil ! 👋
 
-Me chamo Adalto Junior, estou em treinamento para me tornar um Data Scientist :man_technologist: 
+Me chamo Adalto Junior :man_technologist: 
 
 - 💻 Bacharel em Sistemas de Informação;
-- :robot: Estudande de Especialização em Aprendizado de Máquina e Intelingência Artificial;
-- 📈 Data Analyst | Business Intelligence | QA
-- :man_technologist: Dev Python
+- 💻 Atuando como Analista de Testes/QA
+- :man_technologist: 
 
 
 
