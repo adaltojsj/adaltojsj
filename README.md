@@ -4,8 +4,8 @@ Me chamo Adalto Junior, estou em treinamento para me tornar um Data Scientist :m
 
 - 💻 Bacharel em Sistemas de Informação;
 - :robot: Estudande de Especialização em Aprendizado de Máquina e Intelingência Artificial;
-- 📈 Data Analyst | Business Intelligence
-- :man_technologist: Dev Python | R
+- 📈 Data Analyst | Business Intelligence | QA
+- :man_technologist: Dev Python
 
 
 
